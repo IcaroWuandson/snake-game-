@@ -1,39 +1,15 @@
-# Javascript Snake Game
-## An old-school snake game multiplayer online
-
-# ytb_snake_js 
-(original version from a youtube video linked below)
-https://youtu.be/J42SZXS-_Qo
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Fatures:
-
-
-Live demo here:
-https://carubbi-snake.herokuapp.com/frontend/snake.html
 
  
-## Features
+## Funções
 
-- Online multiplayer up to 8 players in the same room.
-- Local multiplayer game up to 4 players in the same keyboard.
-- Multiple rooms to enjoy with your friends
+- Multijogador online até 8 jogadores na mesma sala.
+- Jogo multiplayer de até 4 jogadores no mesmo teclado.
+- Várias salas para desfrutar com seus amigos
  
-## Installation
+## Instalação
 
-ytb_snake_js requires [Node.js](https://nodejs.org/) v12+ to run.
+ytb_snake_js requer [Node.js](https://nodejs.org/) v12+ para rodar
 
-Install the dependencies and start the server.
+Instale na sua maquina e comece a se divertir 
 
-```sh
-cd ytb_snake_js 
-npm i
-npm start
-```
- 
-## License
 
-MIT
-
-**Free Software, Hell Yeah!**
